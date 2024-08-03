@@ -15,4 +15,4 @@ With VisionBuddy, gain unparalleled independence and confidence. Experience a ne
 
 
 # APP Screen
-![alt text](Images/image.png)
+![alt text](image.png)
